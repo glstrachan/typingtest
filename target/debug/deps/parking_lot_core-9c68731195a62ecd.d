@@ -1,0 +1,11 @@
+/Users/grays/Desktop/typing_test/target/debug/deps/parking_lot_core-9c68731195a62ecd.rmeta: /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs
+
+/Users/grays/Desktop/typing_test/target/debug/deps/parking_lot_core-9c68731195a62ecd.d: /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs
+
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs:
+/Users/grays/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs:
